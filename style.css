@@ -317,7 +317,7 @@ header nav ul li a:hover{
     position: relative;
 }
 
-.education .videoPlayer{
+.education img{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -490,7 +490,7 @@ footer .newsLetterContainer input{
         width: 100%;
         padding: 0 15px;
     }
-    .education .videoPlayer{
+    .education img{
         width: 1280px;
     }
 }
@@ -608,7 +608,7 @@ footer .newsLetterContainer input{
     .programs .boxContainer{
         grid-template-columns: 1fr;
     }
-    .education .videoPlayer{
+    .education img{
         width: 1400px;
     }
     .education .educationContainer{
